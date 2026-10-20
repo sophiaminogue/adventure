@@ -1,0 +1,18 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	padding: 40px;
+	font-family: "Comic Sans MS";
+	font-size: 40px;
+}
+img {
+	display: block;
+	width: 400px;
+	height: auto;
+	border-radius: 20px;
+	border: solid black 5px;
+	margin: 10px;
+}
